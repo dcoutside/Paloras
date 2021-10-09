@@ -1,4 +1,5 @@
 [![Paloras's github stats](https://github-readme-stats.vercel.app/api?username=Paloras&show_icons=fulse&hide_border=fulse)](https://github.com/Paloras)
+![상위 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=frin0911&hide_title=True)
 
 # programming language
 ![python](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
